@@ -1,0 +1,4 @@
+.ORIG X3000
+HOME
+    .FILL x3000
+        .END

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/untitled16.dir/main.c.o -o untitled16.exe -Wl,--out-implib,libuntitled16.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

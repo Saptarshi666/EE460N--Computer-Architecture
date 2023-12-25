@@ -1,0 +1,4 @@
+        .ORIG x3000
+       .FILL xSUMPTR
+xSUMPTR .FILL #50
+       .END
